@@ -1,8 +1,8 @@
-Arz Media
+# Arz Media
 
-ArzMedia allows you to see currency rates from PHP and MYSQL services  and cache the results.
+#ArzMedia allows you to see currency rates from PHP and MYSQL services  and cache the results.
 
-Features
+# Features
 
 Installs on IOS devices.
 see currency rate . 
