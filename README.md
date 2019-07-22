@@ -1,4 +1,4 @@
- # Arz Media
+ # Arz Media Swift
 
 ArzMedia allows you to see currency rates from PHP and MYSQL services  and cache the results.
 
